@@ -53,7 +53,7 @@ export const siteConfig = {
       id: 'suite',
       eyebrow: '户型 B',
       title: '一室一厅',
-      badge: '独立小客厅',
+      badge: '35㎡',
       summary: '卧室之外设有独立小客厅，休息、会客及日常活动更加方便。',
       features: ['独立小客厅', '卧室与活动空间分区', '沙发与茶几', ...commonRoomFacilities],
       images: [

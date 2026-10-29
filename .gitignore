@@ -7,3 +7,4 @@ dist/
 # 房东保留的原始素材；网站只使用 public/images 中已分类的副本
 /房屋照片/
 /房东微信好友二维码.png
+/README.md
